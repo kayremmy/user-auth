@@ -1,0 +1,13 @@
+	const responseGoogle = async response => {
+		const res = await axios.post("/googleLogin", {
+			tokenId: response.tokenId,
+		});
+		if (isAuthenticated) {
+			history.push(redirect);
+		}
+
+		if (error) {
+			alert.error(error);
+			dispatch(clearErrors());
+		}
+	};

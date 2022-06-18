@@ -1,0 +1,40 @@
+[
+	{
+		"name": "Kay Remmy",
+		"email": "scar.remmie@gmail.com",
+		"password": "kay1234",
+		"avatar": {
+			"public_id": "user/userprofile_rce0c9",
+			"url": "https://res.cloudinary.com/kaycom/image/upload/v1654956335/user/userprofile_rce0c9.png"
+		}
+	},
+	{
+		"name": "Remmy Kay",
+		"email": "remmie@gmail.com",
+
+		"avatar": {
+			"public_id": "user/userprofile_rce0c9",
+			"url": "https://res.cloudinary.com/kaycom/image/upload/v1654956335/user/userprofile_rce0c9.png"
+		},
+		"password": "kay1234"
+	},
+	{
+		"name": "Kay Remmy",
+		"email": "kay.remmie@gmail.com",
+
+		"avatar": {
+			"public_id": "user/userprofile_rce0c9",
+			"url": "https://res.cloudinary.com/kaycom/image/upload/v1654956335/user/userprofile_rce0c9.png"
+		},
+		"password": "kay1234"
+	},
+	{
+		"name": "Remmy Sang",
+		"email": "kayremie@gmail.com",
+		"password": "kay1234",
+		"avatar": {
+			"public_id": "user/userprofile_rce0c9",
+			"url": "https://res.cloudinary.com/kaycom/image/upload/v1654956335/user/userprofile_rce0c9.png"
+		}
+	}
+]
